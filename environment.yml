@@ -1,4 +1,4 @@
-name: bokeh-tutorial
+name: pyladies-bokeh
 dependencies:
     - python=2.7
     - bokeh=0.9.0
@@ -7,3 +7,6 @@ dependencies:
     - matplotlib
     - seaborn
     - ggplot
+    - pandas
+    - flask
+    - django
