@@ -4,4 +4,5 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
+*.pyc
 .ipynb_checkpoints/
